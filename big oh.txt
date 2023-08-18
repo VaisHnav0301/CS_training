@@ -1,0 +1,8 @@
+O(1)
+O(logn)
+O(n)
+O(nlogn)
+o(n*n)
+o(n*n*n)
+O(2^n)
+o(n!)
